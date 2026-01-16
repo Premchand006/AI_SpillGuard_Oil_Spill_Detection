@@ -1,0 +1,53 @@
+# ===============================
+# Python cache & compiled files
+# ===============================
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===============================
+# Virtual environments
+# ===============================
+venv/
+env/
+.venv/
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Training outputs / large files
+# ===============================
+checkpoints/
+best_model.pth
+
+# ===============================
+# Datasets (very important)
+# ===============================
+preprocessed_dataset/
+preprocessed_dataset.zip
+train/
+val/
+test/
+
+# ===============================
+# Runtime generated data
+# ===============================
+detection_history/
+
+# ===============================
+# OS / Editor files
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===============================
+# Logs
+# ===============================
+*.log
