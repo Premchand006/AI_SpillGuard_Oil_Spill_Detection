@@ -2,7 +2,6 @@
 ### Enterprise Oil Spill Detection System
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **AI SpillGuard Pro** is a state-of-the-art oil spill detection system that leverages deep learning (U-Net + ResNet34) to identify and segment oil spills from Synthetic Aperture Radar (SAR) and satellite imagery in real-time.
 
@@ -105,10 +104,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5.  Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ---
 
